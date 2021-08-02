@@ -1,0 +1,3 @@
+C:\Users\Laptop\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\___.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\___.dir/objects.a @CMakeFiles\___.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\___.dir/objects.a -Wl,--no-whole-archive -o ___.exe -Wl,--out-implib,lib___.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\___.dir\linklibs.rsp
